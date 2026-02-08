@@ -1,0 +1,5 @@
+{
+  "frontend/src/App.tsx": "Main Valentine's Day app component with interactive \"Yes\" and \"No\" buttons, where clicking \"Yes\" displays a romantic kissing couple image with an animated message featuring heart shimmer effects.",
+  "frontend/src/index.css": "Global styles with pink/rose OKLCH color system for Valentine's theme, custom animations including floating hearts, fade-in effects, and heart shimmer animation for magical text effects.",
+  "frontend/tailwind.config.js": "Tailwind configuration with extended theme settings matching the Valentine's Day pink/rose color palette."
+}
